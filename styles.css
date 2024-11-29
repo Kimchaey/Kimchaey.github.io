@@ -32,7 +32,7 @@ header {
 .header-text h1 {
     font-size: 2rem;
     margin: 0;
-    color: #f5f5f5;
+    color: #ffff87;
 }
 .social-icons {
     display: flex;
@@ -46,7 +46,7 @@ header {
     transition: color 0.3s ease, transform 0.3s ease;
 }
 .social-icons a:hover {
-    color: #33ff33;
+    color: #ffff87;
     transform: scale(1.2);
 }
 
@@ -65,8 +65,8 @@ header {
     transition: color 0.3s ease, border-bottom 0.3s ease;
 }
 .nav-menu ul li a:hover {
-    color: #33ff33;
-    border-bottom: 2px solid #33ff33;
+    color: #ffff87;
+    border-bottom: 2px solid #ffff87;
 }
 
 /* About Me 섹션 */
@@ -77,7 +77,7 @@ header {
 #about h2 {
     font-size: 2.5rem;
     margin-bottom: 2rem;
-    color: #33ff33;
+    color: #ffff87;
 }
 .about-container {
     display: flex;
@@ -118,7 +118,7 @@ header {
 #portfolio h2 {
     font-size: 2.5rem;
     margin-bottom: 2rem;
-    color: #33ff33;
+    color: #ffff87;
 }
 /* 프로젝트 카드 스타일 */
 .grid {
@@ -160,7 +160,7 @@ header {
     display: inline-block;
     padding: 0.5rem 1rem;
     margin-top: 0.5rem;
-    background: #33ff33;
+    background: #ffff87;
     color: #f5f5f5;
     text-decoration: none;
     border-radius: 5px;
@@ -180,7 +180,7 @@ header {
 .add-card button {
     padding: 0.5rem 1rem;
     font-size: 1rem;
-    background: #33ff33;
+    background: #ffff87;
     color: #f5f5f5;
     border: none;
     border-radius: 5px;
@@ -199,7 +199,7 @@ header {
 #contact h2 {
     font-size: 2.5rem;
     margin-bottom: 1rem;
-    color: #33ff33;
+    color: #ffff87;
 }
 .contact-icons {
     display: flex;
@@ -214,7 +214,7 @@ header {
     transition: color 0.3s ease, transform 0.3s ease;
 }
 .contact-icons a:hover {
-    color: #33ff33;
+    color: #ffff87;
     transform: scale(1.2);
 }
 
@@ -278,14 +278,14 @@ header {
     transition: color 0.3s ease;
 }
 .close-btn:hover {
-    color: #33ff33;
+    color: #ffff87;
 }
 
 /* 팝업 제목 */
 #popup-details h2 {
     font-size: 2rem;
     margin-bottom: 1rem;
-    color: #33ff33;
+    color: #ffff87;
     text-align: center;
 }
 
@@ -310,7 +310,7 @@ header {
 #popup-details h3 {
     font-size: 1.5rem;
     margin: 1.5rem 0 0.5rem;
-    color: #33ff33;
+    color: #ffff87;
 }
 .tech-stack {
     list-style: none;
@@ -334,7 +334,7 @@ header {
 }
 .tech-stack li i {
     font-size: 1.2rem;
-    color: #33ff33;
+    color: #ffff87;
 }
 .tech-stack li:hover {
     background: #444;
@@ -345,7 +345,7 @@ header {
     display: block;
     margin: 2rem auto 0;
     font-size: 2rem;
-    color: #33ff33;
+    color: #ffff87;
     transition: transform 0.2s ease-in-out;
     text-align: center;
 }
