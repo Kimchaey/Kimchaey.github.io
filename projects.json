@@ -1,0 +1,43 @@
+[
+    {
+      "id": "notd",
+      "title": "NOTD (News Of The Day)",
+      "description": "A dashboard service that visualizes core news and event flows.",
+      "detailedDescription": "NOTD (News Of The Day) is a dashboard service that visualizes core news and event flows at a glance. It is designed to address the challenge of understanding the context of long-term events and to maintain public interest through timeline generation and an interactive dashboard.",
+      "technologies": [
+        {"name": "Python", "icon": "fab fa-python"},
+        {"name": "HTML", "icon": "fab fa-html5"},
+        {"name": "JavaScript", "icon": "fab fa-js"},
+        {"name": "CSS", "icon": "fab fa-css3-alt"}
+      ],
+      "github": "https://github.com/Kimchaey/news_dashboard",
+      "image": "assets/images/notd.png"
+    },
+    {
+      "id": "wanted-analysis",
+      "title": "Wanted Job Posting & Trend Analysis",
+      "description": "A Chrome extension for analyzing required skills and trends in job postings.",
+      "detailedDescription": "This project aims to assist job seekers in understanding the required skills for their desired roles and identifying skill gaps using a Chrome extension. The extension allows users to efficiently plan their hiring preparation process, increasing their competitiveness in the job market. This service visually compares the three major competencies of IT job roles (system, business, technical) with the requirements from postings, assisting users in understanding hiring trends.",
+      "technologies": [
+        {"name": "Python", "icon": "fab fa-python"},
+        {"name": "HTML", "icon": "fab fa-html5"},
+        {"name": "JavaScript", "icon": "fab fa-js"},
+        {"name": "CSS", "icon": "fab fa-css3-alt"}
+      ],
+      "github": "https://github.com/Kimchaey/Job-Positing-Analysis",
+      "image": "assets/images/wanted-analysis.png"
+    },
+    {
+      "id": "dadingcoding",
+      "title": "DadingCoding Frontend",
+      "description": "Frontend for a coding education volunteer club's website.",
+      "detailedDescription": "This project is part of a coding education volunteer club named 'DadingCoding.' The aim is to support educational activities by developing an efficient student-teacher matching and activity management system.",
+      "technologies": [
+       {"name": "React", "icon": "fab fa-react"},
+        {"name": "TypeScript", "icon": "fas fa-code"}
+      ],
+      "github": "https://github.com/DADINGCODING/dadingcodingweb2024",
+      "image": "assets/images/dadingcoding.png"
+    }
+  ]
+  
